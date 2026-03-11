@@ -1,0 +1,6 @@
+@NetRefer.Api_HostAddress = http://localhost:5125
+
+GET {{NetRefer.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
